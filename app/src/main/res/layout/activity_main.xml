@@ -52,7 +52,7 @@
                 android:contentDescription="Carrinho de Compras"
                 android:padding="8dp"
                 android:scaleType="centerInside"
-                android:src="@drawable/carrinho_compras"
+                android:src="@drawable/carrinho"
                 app:tint="#FFFFFF" />
 
 
@@ -64,7 +64,7 @@
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/hamburguer_principal" />
+            android:src="@drawable/hamburguer_principal"/>
 
 
         <!-- Seção 1: Hambúrgueres Principais -->
